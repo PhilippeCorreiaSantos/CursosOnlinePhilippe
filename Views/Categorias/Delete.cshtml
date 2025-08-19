@@ -1,0 +1,11 @@
+@model Categoria
+
+<h2>Excluir Categoria</h2>
+
+<p>Tem certeza que deseja excluir a categoria <strong>@Model.NM_CATEGORIA</strong>?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="CD_CATEGORIA" />
+    <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

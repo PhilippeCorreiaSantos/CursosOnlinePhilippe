@@ -1,0 +1,21 @@
+@model Instrutor
+
+<h2>Excluir Instrutor</h2>
+
+<p>Tem certeza que deseja excluir o instrutor <strong>@Model.NM_INSTRUTOR</strong>?</p>
+
+<div class="form-group">
+    <label><strong>Email:</strong></label>
+    <p>@Model.EML_INSTRUTOR</p>
+</div>
+
+<div class="form-group">
+    <label><strong>Especialidade:</strong></label>
+    <p>@Model.NM_ESPECIALIDADE</p>
+</div>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="CD_INSTRUTOR" />
+    <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

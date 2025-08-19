@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3f5d036c-df32-4597-8980-5bc18203725f/resourceGroups/projetofinal/providers/Microsoft.Web/sites/CursosOnlinePhilippe",
+    "appService.deploySubpath": "bin"
+}

@@ -1,0 +1,31 @@
+@model IEnumerable<Matricula>
+
+<h2>Matrículas</h2>
+
+<a asp-action="Create" class="btn btn-primary">Nova Matrícula</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Aluno</th>
+            <th>Curso</th>
+            <th>Data</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.Aluno?.NM_ALUNO</td>
+                <td>@m.Curso?.NM_CURSO</td>
+                <td>@m.DT_MATRICULA.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@m.CD_MATRICULA" class="btn btn-info btn-sm">Detalhes</a>
+                    <a asp-action="Edit" asp-route-id="@m.CD_MATRICULA" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@m.CD_MATRICULA" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,40 @@
+@model Matricula
+
+@{
+    ViewData["Title"] = "Nova Matrícula";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="CD_ALUNO" class="form-label">Aluno</label>
+        <select asp-for="CD_ALUNO" asp-items="ViewBag.Alunos" class="form-control">
+            <option value="">-- Selecione um aluno --</option>
+        </select>
+        <span asp-validation-for="CD_ALUNO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CD_CURSO" class="form-label">Curso</label>
+        <select asp-for="CD_CURSO" asp-items="ViewBag.Cursos" class="form-control">
+            <option value="">-- Selecione um curso --</option>
+        </select>
+        <span asp-validation-for="CD_CURSO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DT_MATRICULA" class="form-label">Data da Matrícula</label>
+        <input asp-for="DT_MATRICULA" type="date" class="form-control" />
+        <span asp-validation-for="DT_MATRICULA" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

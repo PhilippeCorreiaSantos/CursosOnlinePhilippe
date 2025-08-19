@@ -1,0 +1,16 @@
+@model Categoria
+
+<h2>Editar Categoria</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="CD_CATEGORIA" />
+
+    <div class="form-group">
+        <label>Nome</label>
+        <input asp-for="NM_CATEGORIA" class="form-control" />
+        <span asp-validation-for="NM_CATEGORIA" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

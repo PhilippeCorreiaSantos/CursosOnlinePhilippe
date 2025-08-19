@@ -1,0 +1,441 @@
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfo.cs
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cs
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.runtime.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.endpoints.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.exe
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.deps.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.runtimeconfig.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.pdb
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\bundle\CursosOnlinePhilippe.styles.css
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\projectbundle\CursosOnlinePhilippe.bundle.scp.css
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\ikbua2u4de-b9sayid5wm.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzd0gb08zf-61n19gt1b8.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\wlsc1jfxx1-xtxxf3hu2r.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7wy7zvnj74-bqjiyaj88i.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\pirydf2tnl-c2jlpeoesf.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hm63t6yo8p-erw9l3u2r3.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\95ofwxwguq-aexeepp0ev.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f2qctfqnyv-d7shbmvgxk.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1vfj1f1wd8-ausgxo2sd3.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\o85t6z6thg-k8d9w2qqmf.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f4byc3cqrz-cosvhxvwiu.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\sjji0sk7jv-ub07r2b239.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1smkgwspsv-fvhpjtyr6v.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\k8k1fwe13z-b7pk76d08c.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\11y9fb1wg4-fsbi9cje9m.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\dlfomufd1g-rzd6atqjts.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\edqlls4q7q-ee0r1s7dh0.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\8phkol4ceg-dxx9fxp4il.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\vvz1c1eane-jd9uben2k1.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6me7c4chip-khv3u5hwcm.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\oys4bmh560-r4e9w2rdcm.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f0x1ny4re1-lcd1t2u6c8.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f9cbmq2q8a-c2oey78nd0.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\utaaehvxga-tdbxkamptv.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\d7hlrvtj9j-j5mq2jizvt.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\x3qiaofvyw-06098lyss8.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6m56ysux64-nvvlpmu67g.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iqpe3i22a6-s35ty4nyc5.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xd443il3kz-pj5nd1wqec.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\cpb2dcv4yi-46ein0sx1k.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\48gpui2l79-v0zj4ognzu.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hmlxsnw708-37tfw0ft22.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\63psio3c0v-hrwsygsryq.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\m6qe3s0sc0-pk9g2wxc8p.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eifvy0wppp-ft3s53vfgj.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hvkhen7uof-6cfz1n2cew.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\zrgy6r7xtl-6pdc2jztkx.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1mgovwgwae-493y06b0oq.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\4r6hj9dqz4-iovd86k7lj.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3j5o3dylpq-vr1egmr9el.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\5zkzkhawh8-kbrnm935zg.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3sek16xum3-jj8uyg4cgr.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lxnm9ax4qf-y7v9cxd14o.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\aso30p1ujl-notf2xhcfb.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzp01a12no-h1s4sie4z3.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\07v0xwspnr-63fj8s7r0e.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3srrhs7qo8-0j3bgjxly4.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\j7owl4ckqk-47otxtyo56.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lusqdj3iio-4v8eqarkd7.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\135qmw85us-356vix0kms.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uv7b6qg2uf-83jwlth58m.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eniqszege4-mrlpezrjn3.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lr8n9mne5n-lzl9nlhx6b.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\96xj8hro13-ag7o75518u.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uc8ahnc8j8-x0q3zqp4vz.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\n6j2rhoo0f-0i3buxo5is.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xnzx4fhkvt-o1o13a6vjx.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\klwkkyt7y9-ttgo8qnofa.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iickhya6zo-2z0ns9nrw6.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xif5igj5ov-muycvpuwrr.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\nig4b8dind-87fc7y1x7t.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\geptymxki4-mlv21k5csn.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6ds34vja5z-55ziczeyzq.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7jzc8o9vsr-55ziczeyzq.gz
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOn.F8563D60.Up2Date
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\refint\CursosOnlinePhilippe.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.pdb
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.genruntimeconfig.cache
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\obj\Debug\net9.0\ref\CursosOnlinePhilippe.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suporte\Documents\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.Development.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.runtime.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.endpoints.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.exe
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.deps.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.runtimeconfig.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.pdb
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Core.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Identity.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.ClientModel.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.AssemblyReference.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfoInputs.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfo.cs
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.CoreCompileInputs.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cs
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\bundle\CursosOnlinePhilippe.styles.css
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\projectbundle\CursosOnlinePhilippe.bundle.scp.css
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\ikbua2u4de-b9sayid5wm.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzd0gb08zf-61n19gt1b8.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\wlsc1jfxx1-xtxxf3hu2r.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7wy7zvnj74-bqjiyaj88i.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\pirydf2tnl-c2jlpeoesf.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hm63t6yo8p-erw9l3u2r3.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\95ofwxwguq-aexeepp0ev.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f2qctfqnyv-d7shbmvgxk.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1vfj1f1wd8-ausgxo2sd3.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\o85t6z6thg-k8d9w2qqmf.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f4byc3cqrz-cosvhxvwiu.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\sjji0sk7jv-ub07r2b239.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1smkgwspsv-fvhpjtyr6v.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\k8k1fwe13z-b7pk76d08c.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\11y9fb1wg4-fsbi9cje9m.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\dlfomufd1g-rzd6atqjts.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\edqlls4q7q-ee0r1s7dh0.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\8phkol4ceg-dxx9fxp4il.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\vvz1c1eane-jd9uben2k1.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6me7c4chip-khv3u5hwcm.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\oys4bmh560-r4e9w2rdcm.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f0x1ny4re1-lcd1t2u6c8.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f9cbmq2q8a-c2oey78nd0.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\utaaehvxga-tdbxkamptv.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\d7hlrvtj9j-j5mq2jizvt.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\x3qiaofvyw-06098lyss8.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6m56ysux64-nvvlpmu67g.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iqpe3i22a6-s35ty4nyc5.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xd443il3kz-pj5nd1wqec.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\cpb2dcv4yi-46ein0sx1k.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\48gpui2l79-v0zj4ognzu.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hmlxsnw708-37tfw0ft22.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\63psio3c0v-hrwsygsryq.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\m6qe3s0sc0-pk9g2wxc8p.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eifvy0wppp-ft3s53vfgj.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hvkhen7uof-6cfz1n2cew.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\zrgy6r7xtl-6pdc2jztkx.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1mgovwgwae-493y06b0oq.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\4r6hj9dqz4-iovd86k7lj.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3j5o3dylpq-vr1egmr9el.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\5zkzkhawh8-kbrnm935zg.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3sek16xum3-jj8uyg4cgr.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lxnm9ax4qf-y7v9cxd14o.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\aso30p1ujl-notf2xhcfb.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzp01a12no-h1s4sie4z3.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\07v0xwspnr-63fj8s7r0e.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3srrhs7qo8-0j3bgjxly4.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\j7owl4ckqk-47otxtyo56.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lusqdj3iio-4v8eqarkd7.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\135qmw85us-356vix0kms.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uv7b6qg2uf-83jwlth58m.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eniqszege4-mrlpezrjn3.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lr8n9mne5n-lzl9nlhx6b.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\96xj8hro13-ag7o75518u.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uc8ahnc8j8-x0q3zqp4vz.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\n6j2rhoo0f-0i3buxo5is.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xnzx4fhkvt-o1o13a6vjx.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\klwkkyt7y9-ttgo8qnofa.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iickhya6zo-2z0ns9nrw6.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xif5igj5ov-muycvpuwrr.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\nig4b8dind-87fc7y1x7t.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\geptymxki4-mlv21k5csn.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6ds34vja5z-55ziczeyzq.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7jzc8o9vsr-55ziczeyzq.gz
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.development.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOn.F8563D60.Up2Date
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\refint\CursosOnlinePhilippe.dll
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.pdb
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.genruntimeconfig.cache
+E:\Users\pg-co\Downloads\CursosOnlinePhilippe\obj\Debug\net9.0\ref\CursosOnlinePhilippe.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\appsettings.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.runtime.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.staticwebassets.endpoints.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.exe
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.deps.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.runtimeconfig.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\CursosOnlinePhilippe.pdb
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.AssemblyReference.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfoInputs.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.AssemblyInfo.cs
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.csproj.CoreCompileInputs.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.RazorAssemblyInfo.cs
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\bundle\CursosOnlinePhilippe.styles.css
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\scopedcss\projectbundle\CursosOnlinePhilippe.bundle.scp.css
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\ikbua2u4de-b9sayid5wm.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzd0gb08zf-61n19gt1b8.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\wlsc1jfxx1-xtxxf3hu2r.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7wy7zvnj74-bqjiyaj88i.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\pirydf2tnl-c2jlpeoesf.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hm63t6yo8p-erw9l3u2r3.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\95ofwxwguq-aexeepp0ev.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f2qctfqnyv-d7shbmvgxk.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1vfj1f1wd8-ausgxo2sd3.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\o85t6z6thg-k8d9w2qqmf.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f4byc3cqrz-cosvhxvwiu.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\sjji0sk7jv-ub07r2b239.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1smkgwspsv-fvhpjtyr6v.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\k8k1fwe13z-b7pk76d08c.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\11y9fb1wg4-fsbi9cje9m.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\dlfomufd1g-rzd6atqjts.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\edqlls4q7q-ee0r1s7dh0.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\8phkol4ceg-dxx9fxp4il.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\vvz1c1eane-jd9uben2k1.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6me7c4chip-khv3u5hwcm.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\oys4bmh560-r4e9w2rdcm.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f0x1ny4re1-lcd1t2u6c8.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\f9cbmq2q8a-c2oey78nd0.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\utaaehvxga-tdbxkamptv.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\d7hlrvtj9j-j5mq2jizvt.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\x3qiaofvyw-06098lyss8.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6m56ysux64-nvvlpmu67g.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iqpe3i22a6-s35ty4nyc5.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xd443il3kz-pj5nd1wqec.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\cpb2dcv4yi-46ein0sx1k.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\48gpui2l79-v0zj4ognzu.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hmlxsnw708-37tfw0ft22.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\63psio3c0v-hrwsygsryq.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\m6qe3s0sc0-pk9g2wxc8p.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eifvy0wppp-ft3s53vfgj.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\hvkhen7uof-6cfz1n2cew.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\zrgy6r7xtl-6pdc2jztkx.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\1mgovwgwae-493y06b0oq.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\4r6hj9dqz4-iovd86k7lj.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3j5o3dylpq-vr1egmr9el.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\5zkzkhawh8-kbrnm935zg.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3sek16xum3-jj8uyg4cgr.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lxnm9ax4qf-y7v9cxd14o.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\aso30p1ujl-notf2xhcfb.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\mzp01a12no-h1s4sie4z3.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\07v0xwspnr-63fj8s7r0e.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\3srrhs7qo8-0j3bgjxly4.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\j7owl4ckqk-47otxtyo56.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lusqdj3iio-4v8eqarkd7.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\135qmw85us-356vix0kms.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uv7b6qg2uf-83jwlth58m.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\eniqszege4-mrlpezrjn3.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\lr8n9mne5n-lzl9nlhx6b.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\96xj8hro13-ag7o75518u.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\uc8ahnc8j8-x0q3zqp4vz.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\n6j2rhoo0f-0i3buxo5is.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xnzx4fhkvt-o1o13a6vjx.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\klwkkyt7y9-ttgo8qnofa.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\iickhya6zo-2z0ns9nrw6.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\xif5igj5ov-muycvpuwrr.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\nig4b8dind-87fc7y1x7t.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\geptymxki4-mlv21k5csn.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\6ds34vja5z-55ziczeyzq.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\compressed\7jzc8o9vsr-55ziczeyzq.gz
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOn.F8563D60.Up2Date
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\refint\CursosOnlinePhilippe.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.pdb
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\CursosOnlinePhilippe.genruntimeconfig.cache
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\ref\CursosOnlinePhilippe.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets\msbuild.CursosOnlinePhilippe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets\msbuild.CursosOnlinePhilippe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets\msbuild.build.CursosOnlinePhilippe.props
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CursosOnlinePhilippe.props
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CursosOnlinePhilippe.props
+C:\Users\pg-co\OneDrive\SENAI\AULAS MINISTRADAS\2025\DP-900\CursosOnlinePhilippe\obj\Debug\net9.0\staticwebassets.pack.json

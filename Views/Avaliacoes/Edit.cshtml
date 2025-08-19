@@ -1,0 +1,56 @@
+@model Avaliacao
+@{
+    var alunos = ViewBag.Alunos as List<Aluno>;
+    var cursos = ViewBag.Cursos as List<Curso>;
+}
+
+<h2>Editar Avaliação</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="CD_AVALIACAO" />
+
+    <div class="form-group">
+        <label>Aluno</label>
+        <select asp-for="CD_ALUNO" class="form-control">
+            @foreach (var aluno in alunos)
+            {
+                <option value="@aluno.CD_ALUNO" selected="@(@aluno.CD_ALUNO == Model.CD_ALUNO)">
+                    @aluno.CD_ALUNO
+                </option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Curso</label>
+        <select asp-for="CD_CURSO" class="form-control">
+            @foreach (var curso in cursos)
+            {
+                <option value="@curso.CD_CURSO" selected="@(@curso.CD_CURSO == Model.CD_CURSO)">
+                    @curso.NM_CURSO
+                </option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Nota</label>
+        <input asp-for="VL_NOTA" type="number" min="0" max="10" class="form-control" />
+        <span asp-validation-for="VL_NOTA" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Comentário</label>
+        <textarea asp-for="DS_COMENTARIO" class="form-control"></textarea>
+        <span asp-validation-for="DS_COMENTARIO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Data</label>
+        <input asp-for="DT_AVALIACAO" type="date" class="form-control" />
+        <span asp-validation-for="DT_AVALIACAO" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

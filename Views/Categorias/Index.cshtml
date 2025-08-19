@@ -1,0 +1,26 @@
+@model IEnumerable<Categoria>
+
+<h2>Categorias</h2>
+<a asp-action="Create" class="btn btn-primary mb-2">Nova Categoria</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var categoria in Model)
+        {
+            <tr>
+                <td>@categoria.NM_CATEGORIA</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@categoria.CD_CATEGORIA" class="btn btn-info btn-sm">Detalhes</a>
+                    <a asp-action="Edit" asp-route-id="@categoria.CD_CATEGORIA" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@categoria.CD_CATEGORIA" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

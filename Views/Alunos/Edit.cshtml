@@ -1,0 +1,28 @@
+@model Aluno
+
+<h2>Editar Aluno</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="CD_ALUNO" />
+
+    <div class="form-group">
+        <label>Nome</label>
+        <input asp-for="NM_ALUNO" class="form-control" />
+        <span asp-validation-for="NM_ALUNO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="EML_ALUNO" class="form-control" />
+        <span asp-validation-for="EML_ALUNO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Data de Nascimento</label>
+        <input asp-for="DT_NASC" type="date" class="form-control" />
+        <span asp-validation-for="DT_NASC" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

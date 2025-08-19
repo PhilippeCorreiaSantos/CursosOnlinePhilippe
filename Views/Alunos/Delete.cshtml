@@ -1,0 +1,11 @@
+@model Aluno
+
+<h2>Excluir Aluno</h2>
+
+<p>Tem certeza que deseja excluir o aluno <strong>@Model.NM_ALUNO</strong>?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="CD_ALUNO" />
+    <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

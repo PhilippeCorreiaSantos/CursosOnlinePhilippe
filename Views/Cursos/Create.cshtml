@@ -1,0 +1,46 @@
+@model Curso
+@{
+    var categorias = ViewBag.Categorias as List<Categoria>;
+    var instrutores = ViewBag.Instrutores as List<Instrutor>;
+}
+
+<h2>Cadastrar Curso</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label>Título</label>
+        <input asp-for="NM_CURSO" class="form-control" />
+        <span asp-validation-for="NM_CURSO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Descrição</label>
+        <textarea asp-for="DS_CURSO" class="form-control"></textarea>
+        <span asp-validation-for="DS_CURSO" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Categoria</label>
+        <select asp-for="CD_CATEGORIA" class="form-control">
+            <option value="">-- Selecione uma categoria --</option>
+            @foreach (var cat in categorias)
+            {
+                <option value="@cat.CD_CATEGORIA">@cat.NM_CATEGORIA</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Instrutor</label>
+        <select asp-for="CD_INSTRUTOR" class="form-control">
+            <option value="">-- Selecione um instrutor --</option>
+            @foreach (var inst in instrutores)
+            {
+                <option value="@inst.CD_INSTRUTOR">@inst.NM_INSTRUTOR</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,31 @@
+@model IEnumerable<Instrutor>
+
+<h2>Instrutores</h2>
+
+<a asp-action="Create" class="btn btn-primary">Novo Instrutor</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Especialidade</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instrutor in Model)
+        {
+            <tr>
+                <td>@instrutor.NM_INSTRUTOR</td>
+                <td>@instrutor.EML_INSTRUTOR</td>
+                <td>@instrutor.NM_ESPECIALIDADE</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@instrutor.CD_INSTRUTOR" class="btn btn-info btn-sm">Detalhes</a>
+                    <a asp-action="Edit" asp-route-id="@instrutor.CD_INSTRUTOR" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@instrutor.CD_INSTRUTOR" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
